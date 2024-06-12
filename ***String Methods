@@ -1,7 +1,7 @@
  /*  Convenient String methods.
-charAt() = Returs the character at a specified index.
+charAt() = Returns the character at a specified index.
 
-compareTo() = compred to strings lexicographically.
+compareTo() = Comapres two strings lexicographically.
 
 compareToIgnoreCase() = Compares two string lexicographically regardless of capitalization.
 
@@ -25,7 +25,7 @@ lastIndexOf() = Returns the position of the last found occurrence of specified c
 
 length() = Returns the length of a specified string.
 
-replace() = Searchers a sring for a specified value, and returns a new string where the specified values are replaced.
+replace() = Searches a sring for a specified value, and returns a new string where the specified values is replaced.
 
 replaceAll() = Relplaces the first each substring of the string that matches the given regular expression with the given replacement.
 
