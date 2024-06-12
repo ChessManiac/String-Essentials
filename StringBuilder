@@ -1,1 +1,17 @@
+public class Main8{
+  public static void main (String [] args){
 
+StringBuilder b1 = new StringBuilder("Snorkler");
+StringBuilder b2 = new StringBuilder("yoodler");
+
+b1.append(b2.substring(2,5).toUpperCase());
+
+b2.insrt(3,b1.append("a"));
+
+
+
+
+
+
+  }
+}
