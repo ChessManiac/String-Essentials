@@ -1,0 +1,47 @@
+ /*  Convienient String methods.
+charAt() = Returs the character at a specified index.
+
+compareTo() = compred to strings lexicographically.
+
+compareToIgnoreCase() = Compares two string lexicographically regardless of capitalization.
+
+contains() Checks whether a contains a sequence of characters 
+
+copyValueOf() = Returns a string that represents the characters of the character array
+
+endsWith() = Checks whether a string ends with the specified character.
+
+equals() = Compares two strings. Returns true if the strings are equal, and false if not.
+
+equalsIgnoreCase() = Compares two strings, regardless of capitalization.
+
+indexOf() = Returns the position of the first found occurrence of specified characters in a string.
+
+isEmpty() = Checks whether a string is empty or not.
+
+join() = Joins one or more strings with a specified separator.
+
+lastIndexOf() = Returns the position of the last found occurrence of specified characters in a string.
+
+length() = Returns the length of a specified string.
+
+replace() = Searchers a sring for a specified value, and returns a new string where the specified values are replaced.
+
+replaceAll() = Relplaces the first each substring of the string that matches the given regular expression with the given replacement.
+
+replaceFirst() = Replaces the first occurrence of a substring that matches the given regular expression with the given replacement.
+
+split() = Splits a string into an array of substrings.
+
+startsWith() = Checks whether a string starts with specified characters.
+
+substring() = Returns a new string which is the substring of a specified string.
+
+toCharArray() = Converts this string to a new character array.
+
+toLowerCase() = converts a string to lower case letters.
+
+toString() = Returns the value of a String object.
+
+toUpperCase() = Converts a string to upper case letters.
+*/
