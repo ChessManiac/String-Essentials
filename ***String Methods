@@ -1,4 +1,4 @@
- /*  Convienient String methods.
+ /*  Convenient String methods.
 charAt() = Returs the character at a specified index.
 
 compareTo() = compred to strings lexicographically.
